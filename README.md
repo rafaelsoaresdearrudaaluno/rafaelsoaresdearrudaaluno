@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, eu sou o Rafael Soares de Arruda! 💝
 
-<!--
-**rafaelsoaresdearrudaaluno/rafaelsoaresdearrudaaluno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### *O que eu faço?*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudo na instituição Alura
+- Desenvolvo em programação
+- Compartilho meus projetos
+
+### Você pode entrar em contato comigo 📫
+@rafaelsoaresdearruda@gmail.com
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd4amcxNmF0b21vMjJ3OTExcDA4eXEzNmowbW10MDB2NXRtdXZlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.webp)
+
